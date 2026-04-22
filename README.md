@@ -1,5 +1,7 @@
 # CP2077 Ray Tracing Init Fix
 
+![Preview](preview.png)
+
 Fix for the **"Ray Tracing Initialization Error"** dialog in Cyberpunk 2077 on dual-GPU systems (AMD primary + NVIDIA secondary).
 
 See [README.txt](README.txt) for full documentation.
